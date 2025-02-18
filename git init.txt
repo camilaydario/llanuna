@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/camilaydario/llanuna.git
+git add .
+git commit -m "Primer deploy"
+git branch -M main
+git push -u origin main
